@@ -1,0 +1,11 @@
+*.o
+*.d
+*.crf
+*.bak
+*.dep
+*.htm
+*.axf
+*.swp
+*.lnp
+*.lst
+*.map
